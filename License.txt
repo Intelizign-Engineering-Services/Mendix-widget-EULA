@@ -1,0 +1,47 @@
+ 
+
+End User License Agreement 
+
+ 
+
+Mendix Components from Intelizign 
+
+ 
+
+Last updated: Apr 07, 2022 
+
+ 
+
+This end user license agreement (“EULA”) governs your download and/or use of the Mendix Components including Mendix Widgets that is published in Mendix Marketplace by Intelizign, including any update or upgrade thereto (“Component”). This EULA forms a binding contract between you and Intelizign GmBH (“Intelizign”). 
+
+ 
+
+Terms & Conditions  
+
+This is a contract. This EULA constitutes a contract between you and Intelizign. You may not use the Software if you do not accept the terms in this EULA. By downloading and/or using the Component, you agree to be bound by all the terms and conditions set forth in this EULA. If you are under thirteen (13) years of age, or at least thirteen (13) years of age but a minor where you live, you must have your parent or legal guardian accept this EULA on your behalf and approve your use of the Component. 
+
+You are only granted a limited license to use the Component. Subject to the terms and conditions of this EULA, Intelizign hereby grants you a personal, limited, non-exclusive, non-transferable, non-sublicensable license to: 
+
+use the packaged version of the Component solely as available in the Mendix Marketplace; and 
+
+distribute the Component solely as included in the Mendix Marketplace PROVIDED THAT in all cases the Software is distributed: (i) without modification; (ii) free of charge to end-users; and (iii) with a copy of this EULA. For the avoidance of doubt, the Component must be distributed without modification, both at the time of distribution as well as after the Component is being applied. 
+
+You must respect our rights in the Component. Unless expressly permitted by law, you may not copy, decompile, reverse engineer, disassemble, attempt to derive the source code of, modify, or create derivative works of the Component. You may not remove, obscure, or alter any copyright notice or other proprietary rights notices affixed to or contained within the Component. You may not separate the programs of the Component for use on different computers or sublicense, lease, rent, loan, or distribute the Component to any third party. You may not permit, direct, or authorize any third party to take any action with respect to the Component which is inconsistent with the terms set forth in this EULA. 
+
+The Component contains our valuable intellectual property. You acknowledge and agree that the Component, including its sequence, structure, organization, source code and applicable documentation, contains valuable trade secrets and other intellectual property of Intelizign and its suppliers. The Component is licensed and not sold to you, and no title or ownership to such Component or the intellectual property rights embodied therein is granted to you. The Component is the exclusive property of Intelizign and its suppliers, and all rights in and to the Component not expressly granted to you in this Agreement are reserved. Nothing in this EULA will be deemed to grant, by implication, estoppel or otherwise, a license under any existing or future patents of Intelizign, except to the extent necessary for you to use the Component as expressly permitted under this EULA. You acknowledge and agree that any actual or threatened breach of this EULA will constitute immediate, irreparable harm to Intelizign for which monetary damages would be an inadequate remedy, and that injunctive relief is an appropriate remedy for any such breach or violation. 
+
+Libraries from third parties may be delivered along with the Component. The Component is delivered along with certain libraries provided by third parties (“Third Party Libraries”). Intelizign shall not be responsible for any such Third-Party Libraries. Third-Party Libraries, particularly open-source libraries, may be subject to separate license terms included with. The terms set forth in this EULA do not apply to Third-Party Libraries to the extent they are inconsistent with such Third-Party Library licenses. This EULA governs your use of the Component in packaged form. 
+
+The Component may provide for access to additional services. Various services may be offered where available via or as integrated into the Component (“Services”). By using any such Services, you agreed to the respective terms of service (“Terms of Service”). The Terms of Service are incorporated into this EULA by this reference. As is more fully explained in the Terms of Service, some Services are offered by Intelizign, others by third parties (which may be subject to separate terms – please refer to the Terms of Service for more information). Intelizign reserves the right at any time and from time to time to modify or discontinue, temporarily or permanently, the Services (or any part thereof) with or without notice. You agree that Intelizign shall not be liable to you or to any third party for any modification, suspension or discontinuance of the Services. 
+
+Your privacy is important to us. Intelizign takes the protection and security of its users’ information very seriously and will treat any and all such information in accordance with our privacy statement, which is currently posted at https://www.intelizign.com/privacy-policy (“Privacy Statement”). The Privacy Statement is incorporated into this EULA by this reference. You agree to the use of your data in accordance with Intelizign’s Privacy Statement. 
+
+Your license to use the Component terminates if you breach this EULA. This EULA will commence upon your download of the Component and continue in perpetuity unless terminated earlier as provided herein. This EULA will immediately terminate upon your breach of any of the terms or conditions set forth herein. Upon the termination of the EULA, you will discontinue all use of the Component, promptly destroy or have destroyed the Component and any copies thereof, and, upon request by Intelizign, certify in writing that such destruction has taken place. These remedies are cumulative and in addition to any other remedies which may be available. Section 1, as well as Sections 3 through 12 of this EULA shall survive termination. 
+
+The Component is provided without any warranties or guarantees. THE COMPONENT IS PROVIDED “AS IS”, AND INTELIZIGN DISCLAIMS ALL WARRANTIES WITH REGARD TO THE COMPONENT WHETHER EXPRESS, IMPLIED OR STATUTORY, INCLUDING WITHOUT LIMITATION THE IMPLIED WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR USE, SATISFACTORY QUALITY, OR QUIET ENJOYMENT. INTELIZIGN DOES NOT WARRANT THAT THE USE OF THE COMPONENT WILL BE UNINTERRUPTED OR ERROR FREE OR THAT THE COMPONENT DOES NOT CONTAIN ANY VIRUSES. THIS WARRANTY DISCLAIMER IS A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN YOU AND INTELIZIGN. INTELIZIGN WOULD NOT PROVIDE THE COMPONENT ABSENT SUCH DISCLAIMER. NO REPRESENTATIONS OR WARRANTIES ARE MADE BY ANY OF INTELIZIGN’S CUSTOMERS OR SUPPLIERS UNDER OR BY VIRTUE OF THIS AGREEMENT. IF YOU ARE DISSATISFIED WITH ANY PORTION OF THE COMPONENT, OR WITH ANY OF THESE TERMS, YOUR SOLE AND EXCLUSIVE REMEDY IS TO DISCONTINUE USING THE COMPONENT. 
+
+Intelizign is not liable for any damages you may incur. IN NO EVENT SHALL INTELIZIGN, ITS AFFILIATES, OR THEIR RESPECTIVE SUPPLIERS OR CUSTOMERS BE LIABLE FOR ANY INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR INDIRECT DAMAGES OF ANY KIND (INCLUDING WITHOUT LIMITATION DAMAGES FOR INTERRUPTION OF BUSINESS, LOST DATA, LOST PROFITS, OR THE LIKE) REGARDLESS OF THE FORM OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING WITHOUT LIMITATION NEGLIGENCE), PRODUCT LIABILITY, OR OTHER THEORY, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF INCIDENTAL OR CONSEQUENTIAL DAMAGES, SO THE FOREGOING EXCLUSION AND LIMITATION MAY NOT APPLY TO YOU. THIS LIMITATION OF LIABILITY WILL APPLY NOTWITHSTANDING THE FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY SET FORTH HEREIN. THIS LIMITATION OF LIABILITY IS A FUNDAMENTAL ELEMENT OF THE BASIS OF THE BARGAIN BETWEEN YOU AND INTELIZIGN. INTELIZIGN WOULD NOT PROVIDE THE COMPONENT TO YOU ABSENT SUCH LIMITATION. 
+
+Intelizign may modify these terms. Intelizign may update the terms of this EULA, the Privacy Statement. The current version of this EULA is posted at [https://github.com/Intelizign-Engineering-Services/Mendix-widget-EULA], the latest version of the Privacy Statement is posted at https://www.intelizign.com/privacy-policy. It is your responsibility to remain informed of any changes as you are bound by the latest version of the EULA, and Privacy Statement. 
+
+General. You acknowledge and agree that the Component may contain cryptographic functionality the export of which may be restricted under applicable export control law. You will comply with all applicable laws and regulations in your activities with regard to the Component. You will not export or re-export the Component in violation of such laws or regulations or without all required licenses and authorizations. You may not assign or transfer this contract without obtaining Intelizign’s prior written consent, and any purported assignment or transfer in violation of this restriction will be null and void. 
